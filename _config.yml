@@ -1,0 +1,29 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Chicago
+layout_spectrum: 0.9197633827570826
+typography_spectrum: 0.2545652277767658
+color:
+  brandStrength: 0.012725165113806725
+  lightness: 0.24163863435387611
+  saturation: 0.7399542438797653
+  rhythmicContrast: 0.26504869060590863
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+content: []
+title: Chicago adventure
+description: coming soon to this space photos from Reeling film festival and the windy city
+purpose:
+  - type: external
+    url: 'http://maurinedodge.photo/?cache=no'
+    label: Maurine Dodge Photography
+github: true
