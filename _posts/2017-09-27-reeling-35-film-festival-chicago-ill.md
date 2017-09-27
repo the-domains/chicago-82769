@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: Reeling 35 Film Festival Chicago Ill
-dateModified: '2017-09-27T21:50:20.097Z'
-datePublished: '2017-09-27T21:50:20.721Z'
+dateModified: '2017-09-27T21:55:22.274Z'
+datePublished: '2017-09-27T21:55:26.444Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-09-27-reeling-35-film-festival-chicago-ill.md
 starred: false
 datePublishedOriginal: '2017-09-27T21:50:20.721Z'
-sourcePath: _posts/2017-09-27-reeling-35-film-festival-chicago-ill.md
 _type: Blurb
 
 ---
